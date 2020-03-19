@@ -33,10 +33,10 @@
             echo "Du wurdest gebannt.";
           }
         } else {
-          echo "Der Login ist fehlgeschlagen+";
+          echo "Etwas ist schiefgelaufen. Überprüfe dein Nutzername und Passwort";
         }
       } else {
-        echo "Der Login ist fehlgeschlagen";
+        echo "Etwas ist schiefgelaufen. Überprüfe dein Nutzername und Passwort";
       }
     }
      ?>
